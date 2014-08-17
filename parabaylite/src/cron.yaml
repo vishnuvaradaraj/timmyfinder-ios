@@ -1,0 +1,7 @@
+cron:
+- description: Hourly garbage collection job
+  url: /api/cron_erase/ParabayOrg-Outlook/Calendar_Appointment
+  schedule: every 45 minutes
+- description: Hourly push notification job
+  url: /api/cron_push/ParabayOrg-Outlook/Calendar_Appointment
+  schedule: every 27 minutes

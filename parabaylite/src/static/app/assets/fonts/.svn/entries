@@ -1,0 +1,68 @@
+8
+
+dir
+185
+svn+ssh://vishnuv@server.parabay.com/var/svn/parabay/client/parabay/src/assets/fonts
+svn+ssh://vishnuv@server.parabay.com/var/svn
+
+
+
+2008-04-19T22:15:21.746332Z
+184
+vishnuv
+
+
+svn:special svn:externals svn:needs-lock
+
+MyriadWebPro.ttf
+file
+
+
+
+
+2007-12-21T17:43:01.000000Z
+0abfe2358ba6714fb700be1a184b261c
+2008-04-19T22:15:21.746332Z
+184
+vishnuv
+has-props
+
+MyriadWebPro-Italic.ttf
+file
+
+
+
+
+2007-12-21T17:43:01.000000Z
+7cb1fb329b7e496aec88aca062f810e2
+2008-04-19T22:15:21.746332Z
+184
+vishnuv
+has-props
+
+aescrawl.ttf
+file
+274
+
+
+
+2008-01-17T16:36:07.000000Z
+7fa5c96b1f5b6563e6560c46f8207ebe
+2008-07-08T02:16:58.215370Z
+274
+vishnuv
+has-props
+
+MyriadWebPro-Bold.ttf
+file
+
+
+
+
+2007-12-21T17:43:01.000000Z
+a0a8cf58c766decbed26ea81fe8fdb30
+2008-04-19T22:15:21.746332Z
+184
+vishnuv
+has-props
+
